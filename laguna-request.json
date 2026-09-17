@@ -1,0 +1,6 @@
+{
+  "model": "poolside/laguna-s-2.1:free",
+  "messages": [
+    { "role": "user", "content": "Write a Python function that reverses a linked list." }
+  ]
+}

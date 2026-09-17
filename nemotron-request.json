@@ -1,0 +1,6 @@
+{
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "messages": [
+    { "role": "user", "content": "Plan the steps to build a REST API and explain your reasoning." }
+  ]
+}
